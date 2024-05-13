@@ -1,2 +1,2 @@
 # java-concept-demo
-This repo demonstrates code example for core and advance java
+This repo demonstrates code examples for core and advance java
